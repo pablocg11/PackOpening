@@ -11,14 +11,14 @@ struct PackSelectorButton: View {
             withAnimation {
                 action()
             }
-        }) {
+        }, label: {
             Text(packName)
                 .font(.subheadline)
                 .foregroundColor(.white)
                 .padding(.vertical, 12)
                 .padding(.horizontal, 20)
                 .frame(maxWidth: .infinity)
-        }
+        })
         .background(
             RoundedRectangle(cornerRadius: 12)
                 .fill(packColor)
