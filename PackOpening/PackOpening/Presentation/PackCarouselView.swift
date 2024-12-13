@@ -8,7 +8,7 @@ struct PackCarouselView: View {
 
     var body: some View {        
         VStack {
-            Text("Pokemon TGCP")
+            Text("Pokemon TCGP")
                 .font(.largeTitle)
                 .fontWeight(.black)
                 .foregroundStyle(LinearGradient(colors: [.red, .orange, .yellow],
