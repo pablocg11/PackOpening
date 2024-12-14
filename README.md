@@ -9,9 +9,7 @@ A simple **SwiftUI** project inspired by the new Pokémon game! This app simulat
 - **Modern Design**: Minimalistic UI with vibrant colors, gradients, and rounded edges for a premium user experience.
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b86f85d7-6bd6-4d3e-8629-c8e0b8ebb131" alt="Demo Video" width="400"/>
-</p>
+https://github.com/user-attachments/assets/61b6de0c-7691-43b5-97b3-ad0f66f203a0
 
 
 
